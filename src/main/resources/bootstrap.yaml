@@ -5,10 +5,3 @@ spring:
     config:
       enabled: true
       uri: http://localhost:8081
-  datasource:
-    url: jdbc:mysql://localhost:3306/tingeso
-    username: root
-    password: 4892
-  jpa:
-    hibernate:
-      ddl-auto: update
